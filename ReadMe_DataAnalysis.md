@@ -3,7 +3,7 @@ Title:		Data Analysis Code Templates
 Author:		Peter J Brumm
 Date:		05/10/2024
 Description:	Template code used to analyze data in the form if usable 
-		python classes
+        		python classes
 ##############################################################################
 1. Collection
 	a. Data bases
